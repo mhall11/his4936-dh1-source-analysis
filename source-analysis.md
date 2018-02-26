@@ -1,13 +1,5 @@
 # Source analysis (Individual Assignment)
 
-Delete this introductory material when submitting your assignment
-Locate a digital source that is related to you (or your group's) general research aims. I will allow a generous leeway in terms of how much the source relates to your final topic, so even a source that is indirectly related is acceptable for now. Remember, although researches start off with a topic of interest, they nearly always end up changing their questions.
-
-This exercise is designed to (a) get you thinking critically about an digital source and (b) what are the possibilities and problems of using that source to illuminate your possible research interests. If in the process of doing your source analysis you realize that your research interest might need significant reworking, that is okay. I expect everyone’s topics to change over the course of the semester. The aim of this exercise is to teach you to think about how to approach *any* digital source.
-
-Overall, your answers should be *roughly* the equivalent of 2 pages, double-spaced.
-
-See the [README.md](README.md) file for information on how to submit this assignment.
 ---
 remember p tags
 
